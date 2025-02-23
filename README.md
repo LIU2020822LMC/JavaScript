@@ -1,5 +1,4 @@
 # JavaScript
-JavaScript学习的过程中写的一些小东西  
-### 1.猜数字游戏  
-点击猜数字游戏文件夹里面的HTML文件即可游玩该简单的游戏
+根据油管博主BroCode的JavaScript教学视频而制作的css、html、JavaScript的小项目
+油管连接[[https://www.youtube.com/watch?v=lfmg-EJ8gm4&t=22790s]]
 
